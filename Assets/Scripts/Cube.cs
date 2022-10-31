@@ -3,6 +3,7 @@ using UnityEngine;
 public class Cube : MonoBehaviour
 {
     private Rigidbody cube;
+
     public float speed;
     public float deadRange;
 
